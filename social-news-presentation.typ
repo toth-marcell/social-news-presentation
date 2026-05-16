@@ -43,6 +43,9 @@
   - Tinymist Typst a dokumentációnak és a prezentációnak a készítéséhez
 - Visual Studio IDE az Avalonia alapú asztali és mobil alkalmazáshoz az AXAML Viewer bővítménnyel
 
+== Adatbázis
+#align(center, image("erd.svg", width: 101.8%))
+
 == Működés bemutatása: autentikáció
 - JWT (json web token) alapú autentikáció, ami tartalmazza a belépett felhasználó azonosítóját
   - a weboldalon cookie-ba van rakva
@@ -56,7 +59,8 @@
 - manuális tesztelésére és az útvonalak megismerésére az OpenAPI definíció alapján automatikusan készült interaktív oldal:
   - https://social-news.toth-marcell.xyz/api-docs
 - itt látható, hogy milyen útvonalak elérhetők, a bemeneteik, kimeneteik
-// #image("swagger.png", height: 1fr)
+#pagebreak()
+#image("swagger.png", height: 1fr)
 
 == Felhasználói felület manuális tesztelés
 - a felhasználói felületeket (a weboldalt, asztali  és mobil alkalmazást) manuálisan teszteltem.
@@ -95,6 +99,7 @@
   - esetleg több moderációs eszközt kellene hozzáadni
 - az Avalonia támogatja az iOS alkalmazás készítését is,
   tehát arra is lehetne építeni az alkalmazást (csak erre kell eszköz is teszteléshez)
+- az alkalmazáshoz hozzá lehetne adni az összes funkciót, amik jelenleg csak a weboldalon érhetők el
 
 == A projekt sorás szerzett skillek
 === Hard skillek
