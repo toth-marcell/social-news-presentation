@@ -111,10 +111,20 @@
 - problémamegoldás
 - időgazdálkodás
 - tanulás
+
+== Summary
+- a social news website, desktop and Android app where users can register, then create and upvote posts and comments
+- website and API server uses Express (Node.js)
+- desktop and Android app made with Avalonia (C\#), both programs are built from a single codebase
+- API automatically tested using `jest` and `supertest`
+- User interfaces manually tested by following user documentation which lists all functions
+
 == Vége
 #v(40%)
 #align(center)[
   Köszönöm a figyelmet!
 
   Kérdések?
+
+  Questions?
 ]
