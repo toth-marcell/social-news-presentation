@@ -15,7 +15,7 @@
   ),
 )
 
-#set text(lang: "hu", font: "Inter", stylistic-set: (2, 7), hyphenate: false)
+#set text(22pt, lang: "hu", font: "Inter", stylistic-set: (2, 7), hyphenate: false)
 #show raw: set text(font: "Hack")
 #set list(spacing: 1.5em)
 #set par(justify: false)
