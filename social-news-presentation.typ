@@ -44,7 +44,8 @@
 - Visual Studio IDE az Avalonia alapú asztali és mobil alkalmazáshoz az AXAML Viewer bővítménnyel
 
 == Adatbázis
-#align(center, image("erd.svg", height: 1fr))
+
+#text(font: "Times New Roman", align(center, image("erd.svg", height: 1fr)))
 
 == Működés bemutatása: autentikáció
 - JWT (json web token) alapú autentikáció, ami tartalmazza a belépett felhasználó azonosítóját
@@ -70,7 +71,7 @@
 - a manuális teszteléshez, hogy legyenek már felhasználók, bejegyzések és kommentek, ne üres legyen minden, készítettem egy script-et ami létrehoz sok adatot az adatbázisban véletlenszerű nevekkel/szöveggel/stb.
 
 #align(center)[
-  #show image: it => block(stroke: black, it)
+  #show image: it => block(stroke: (paint: black, thickness: 1mm), it)
   #image("screenshots/web/frontpage-first.png")
   #image("screenshots/web/post-first.png")
   #image("screenshots/web/post.png")
