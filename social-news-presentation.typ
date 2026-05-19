@@ -54,6 +54,20 @@
 - Egy bejelentkezés 1 évig él, utána újra be kell lépni
 - A jelszavaknak min 8 karakterből kell állniuk
 - A jelszó hash-elés először sha256-al hasheli, majd bcrypt-el a jelszavakat, így nem probléma a bcrypt max bemenethossza, lehet hosszabb jelszót ("passphrase"-t) is használni.
+#pagebreak()
+- 3 különböző szerepet különböztetünk meg:
+  - *Vendég* (nincs bejelentkezve/nem küldött tokent)
+    - megnézhet bejegyzéseket, megjegyzéseket és felhasználói profilokat
+  - *Felhasználó*
+    - létrehozhat bejegyzéseket, megjegyzéseket
+    - szerkesztheti és törölheti saját bejegyzéseit, megjegyzéseit
+    - szerkesztheti saját profilját
+#pagebreak()
+- *Adminisztrátor*
+  - szerkeszthet és törölhet bármit
+  - megnézheti a naplót
+  - listázhatja a felhasználókat
+  - módosíthatja bármelyik felhasználó adatait, és adminisztrátorrá teheti őket, vagy elveheti admin státuszukat (viszont nem a sajátját)
 
 == API manuális tesztelés
 - az API van automatikus is tesztelve (erre visszatérünk)
