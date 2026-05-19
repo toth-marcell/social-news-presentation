@@ -44,7 +44,7 @@
 - Visual Studio IDE az Avalonia alapú asztali és mobil alkalmazáshoz az AXAML Viewer bővítménnyel
 
 == Adatbázis
-#align(center, image("erd.svg", width: 101.8%))
+#align(center, image("erd.svg", height: 1fr))
 
 == Működés bemutatása: autentikáció
 - JWT (json web token) alapú autentikáció, ami tartalmazza a belépett felhasználó azonosítóját
@@ -59,15 +59,35 @@
 - manuális tesztelésére és az útvonalak megismerésére az OpenAPI definíció alapján automatikusan készült interaktív oldal:
   - https://social-news.toth-marcell.xyz/api-docs
 - itt látható, hogy milyen útvonalak elérhetők, a bemeneteik, kimeneteik
-#pagebreak()
-#image("swagger.png", height: 1fr)
+#image("swagger-parameters.png")
+#image("swagger-responses.png")
 
 == Felhasználói felület manuális tesztelés
 - a felhasználói felületeket (a weboldalt, asztali  és mobil alkalmazást) manuálisan teszteltem.
 - követjük a felhasználói dokumentációt és kipróbálunk minden egyes listázott funkciót, minden gombnyomásnál pedig megnézzük, hogy az történt-e, amit vártunk
 - ezt a felhasználói dokumentáció írása közben is megcsináltam, tehát azt mondhatjuk, minden ott listázott funkció megfelelően működik.
 
-- a manuális teszteléshez, hogy legyenek már felhasználók, bejegyzések és kommentek, ne üres legyen minden, van egy `generateTestData` nevű script, ez létrehoz sok adatot az adatbázisban véletlenszerű nevekkel/szöveggel/stb.
+- a manuális teszteléshez, hogy legyenek már felhasználók, bejegyzések és kommentek, ne üres legyen minden, készítettem egy script-et ami létrehoz sok adatot az adatbázisban véletlenszerű nevekkel/szöveggel/stb.
+
+#align(center)[
+  #show image: it => block(stroke: black, it)
+  #image("screenshots/web/frontpage-first.png")
+  #image("screenshots/web/post-first.png")
+  #image("screenshots/web/post.png")
+  #image("screenshots/web/register.png")
+  #image("screenshots/web/register-err.png")
+  #image("screenshots/web/login-after-register.png")
+  #image("screenshots/web/frontpage-after-login.png")
+  #image("screenshots/web/frontpage-admin.png")
+  #image("screenshots/web/newpost.png")
+  #image("screenshots/web/editpost.png")
+  #image("screenshots/web/editcomment.png")
+  #image("screenshots/web/profile.png")
+  #image("screenshots/web/profile-own.png")
+  #image("screenshots/web/profile-admin.png")
+  #image("screenshots/web/logs.png")
+  #image("screenshots/web/users.png")
+]
 
 == Automatikus (egység és integrációs) tesztelés
 - automatikus tesztelve vannak a web szerver egyes komponensei és az API útvonalak

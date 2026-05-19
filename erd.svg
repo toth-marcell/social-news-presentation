@@ -17,7 +17,82 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs67" />
+     id="defs67">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="-3"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dart arrow"
+       markerWidth="3"
+       markerHeight="3"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
   <sodipodi:namedview
      id="namedview67"
      pagecolor="#505050"
@@ -29,8 +104,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="pt"
      inkscape:zoom="0.78812943"
-     inkscape:cx="554.47745"
-     inkscape:cy="364.15338"
+     inkscape:cx="425.05709"
+     inkscape:cy="327.3574"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
      inkscape:window-x="0"
@@ -46,23 +121,25 @@
     <polygon
        fill="#ffffff"
        stroke="transparent"
-       points="848,-540.0804 848,36 -36,36 -36,-540.0804 "
-       id="polygon1" />
+       points="-36,36 -36,-540.0804 848,-540.0804 848,36 "
+       id="polygon1"
+       transform="matrix(1.0000695,0,0,0.99999934,0.00249753,-3.7631424e-4)" />
     <!-- User -->
     <g
        id="node1"
-       class="node">
+       class="node"
+       transform="matrix(1.2585443,0,0,1.2585443,-200.83403,36.479072)">
       <title
          id="title2">User</title>
       <polygon
          fill="#add8e6"
          stroke="transparent"
-         points="563.5,-385 563.5,-363 466.5,-363 466.5,-385 "
+         points="466.5,-363 466.5,-385 563.5,-385 563.5,-363 "
          id="polygon2" />
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-385 563.5,-363 466.5,-363 466.5,-385 "
+         points="466.5,-363 466.5,-385 563.5,-385 563.5,-363 "
          id="polygon3" />
       <text
          text-anchor="start"
@@ -76,7 +153,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-363 563.5,-341 466.5,-341 466.5,-363 "
+         points="466.5,-341 466.5,-363 563.5,-363 563.5,-341 "
          id="polygon4" />
       <text
          text-anchor="start"
@@ -99,7 +176,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-341 563.5,-319 466.5,-319 466.5,-341 "
+         points="466.5,-319 466.5,-341 563.5,-341 563.5,-319 "
          id="polygon5" />
       <text
          text-anchor="start"
@@ -112,7 +189,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-319 563.5,-297 466.5,-297 466.5,-319 "
+         points="466.5,-297 466.5,-319 563.5,-319 563.5,-297 "
          id="polygon6" />
       <text
          text-anchor="start"
@@ -125,7 +202,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-297 563.5,-275 466.5,-275 466.5,-297 "
+         points="466.5,-275 466.5,-297 563.5,-297 563.5,-275 "
          id="polygon7" />
       <text
          text-anchor="start"
@@ -138,7 +215,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-275 563.5,-253 466.5,-253 466.5,-275 "
+         points="466.5,-253 466.5,-275 563.5,-275 563.5,-253 "
          id="polygon8" />
       <text
          text-anchor="start"
@@ -151,7 +228,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-253 563.5,-231 466.5,-231 466.5,-253 "
+         points="466.5,-231 466.5,-253 563.5,-253 563.5,-231 "
          id="polygon9" />
       <text
          text-anchor="start"
@@ -164,7 +241,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-231 563.5,-209 466.5,-209 466.5,-231 "
+         points="466.5,-209 466.5,-231 563.5,-231 563.5,-209 "
          id="polygon10" />
       <text
          text-anchor="start"
@@ -177,7 +254,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-209 563.5,-187 466.5,-187 466.5,-209 "
+         points="466.5,-187 466.5,-209 563.5,-209 563.5,-187 "
          id="polygon11" />
       <text
          text-anchor="start"
@@ -190,7 +267,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="563.5,-187 563.5,-165 466.5,-165 466.5,-187 "
+         points="466.5,-165 466.5,-187 563.5,-187 563.5,-165 "
          id="polygon12" />
       <text
          text-anchor="start"
@@ -204,18 +281,19 @@
     <!-- PostVote -->
     <g
        id="node4"
-       class="node">
+       class="node"
+       transform="matrix(1.2585443,0,0,1.2585443,-226.3343,-129.65608)">
       <title
          id="title13">PostVote</title>
       <polygon
          fill="#add8e6"
          stroke="transparent"
-         points="802.5,-252 802.5,-230 717.5,-230 717.5,-252 "
+         points="717.5,-252 802.5,-252 802.5,-230 717.5,-230 "
          id="polygon13" />
       <polygon
          fill="none"
          stroke="#000000"
-         points="802.5,-252 802.5,-230 717.5,-230 717.5,-252 "
+         points="717.5,-252 802.5,-252 802.5,-230 717.5,-230 "
          id="polygon14" />
       <text
          text-anchor="start"
@@ -229,7 +307,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="802.5,-230 802.5,-208 717.5,-208 717.5,-230 "
+         points="717.5,-230 802.5,-230 802.5,-208 717.5,-208 "
          id="polygon15" />
       <text
          text-anchor="start"
@@ -242,7 +320,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="802.5,-208 802.5,-186 717.5,-186 717.5,-208 "
+         points="717.5,-208 802.5,-208 802.5,-186 717.5,-186 "
          id="polygon16" />
       <text
          text-anchor="start"
@@ -255,7 +333,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="802.5,-186 802.5,-164 717.5,-164 717.5,-186 "
+         points="717.5,-186 802.5,-186 802.5,-164 717.5,-164 "
          id="polygon17" />
       <text
          text-anchor="start"
@@ -278,7 +356,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="802.5,-164 802.5,-142 717.5,-142 717.5,-164 "
+         points="717.5,-164 802.5,-164 802.5,-142 717.5,-142 "
          id="polygon18" />
       <text
          text-anchor="start"
@@ -300,39 +378,22 @@
          id="text20">: NUMBER</text>
     </g>
     <!-- User&#45;&gt;PostVote -->
-    <g
-       id="edge1"
-       class="edge">
-      <title
-         id="title20">User-&gt;PostVote</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 563.197,-259.4965 c 42.7832,13.6208 104.7143,33.3376 147.5223,46.9663"
-         id="path20" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="713.7702,-211.5589 716.6288,-210.6488 716.6288,-210.6488 716.6288,-210.6488 713.7702,-211.5589 715.8097,-208.076 710.9116,-212.469 717.448,-213.2215 "
-         id="polygon20" />
-    </g>
     <!-- CommentVote -->
     <g
        id="node5"
-       class="node">
+       class="node"
+       transform="matrix(1.2585443,0,0,1.2585443,-854.815,91.855021)">
       <title
          id="title21">CommentVote</title>
       <polygon
          fill="#add8e6"
          stroke="transparent"
-         points="812.5,-407 812.5,-385 707.5,-385 707.5,-407 "
+         points="707.5,-407 812.5,-407 812.5,-385 707.5,-385 "
          id="polygon21" />
       <polygon
          fill="none"
          stroke="#000000"
-         points="812.5,-407 812.5,-385 707.5,-385 707.5,-407 "
+         points="707.5,-407 812.5,-407 812.5,-385 707.5,-385 "
          id="polygon22" />
       <text
          text-anchor="start"
@@ -346,7 +407,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="812.5,-385 812.5,-363 707.5,-363 707.5,-385 "
+         points="707.5,-385 812.5,-385 812.5,-363 707.5,-363 "
          id="polygon23" />
       <text
          text-anchor="start"
@@ -359,7 +420,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="812.5,-363 812.5,-341 707.5,-341 707.5,-363 "
+         points="707.5,-363 812.5,-363 812.5,-341 707.5,-341 "
          id="polygon24" />
       <text
          text-anchor="start"
@@ -372,7 +433,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="812.5,-341 812.5,-319 707.5,-319 707.5,-341 "
+         points="707.5,-341 812.5,-341 812.5,-319 707.5,-319 "
          id="polygon25" />
       <text
          text-anchor="start"
@@ -395,7 +456,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="812.5,-319 812.5,-297 707.5,-297 707.5,-319 "
+         points="707.5,-319 812.5,-319 812.5,-297 707.5,-297 "
          id="polygon26" />
       <text
          text-anchor="start"
@@ -417,28 +478,11 @@
          id="text28">: NUMBER</text>
     </g>
     <!-- User&#45;&gt;CommentVote -->
-    <g
-       id="edge2"
-       class="edge">
-      <title
-         id="title28">User-&gt;CommentVote</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 563.197,-290.3048 c 39.5844,-12.4408 95.5606,-30.0333 137.6158,-43.2507"
-         id="path28" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="703.7895,-334.4909 706.6515,-335.3905 706.6515,-335.3905 706.6515,-335.3905 703.7895,-334.4909 707.461,-332.8147 700.9275,-333.5914 705.8419,-337.9662 "
-         id="polygon28" />
-    </g>
     <!-- Post -->
     <g
        id="node2"
-       class="node">
+       class="node"
+       transform="matrix(1.2585443,0,0,1.2585443,378.45726,23.886327)">
       <title
          id="title29">Post</title>
       <polygon
@@ -600,58 +644,23 @@
          id="text41">: NUMBER</text>
     </g>
     <!-- Post&#45;&gt;User -->
-    <g
-       id="edge5"
-       class="edge">
-      <title
-         id="title41">Post-&gt;User</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 327.4225,-144.2043 c 40.5823,-28.3732 97.9892,-68.5094 138.481,-96.8194"
-         id="path41" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="324.5197,-142.1748 322.0611,-140.4558 322.0611,-140.4558 322.0611,-140.4558 324.5197,-142.1748 320.514,-142.6686 326.9784,-143.8938 323.6082,-138.243 "
-         id="polygon41" />
-    </g>
     <!-- Post&#45;&gt;PostVote -->
-    <g
-       id="edge3"
-       class="edge">
-      <title
-         id="title42">Post-&gt;PostVote</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="M 322.1375,-114.0342 C 378.1972,-119.5917 478.37,-130.7901 563,-147 c 50.8671,-9.743 108.1704,-24.8022 147.7101,-35.8488"
-         id="path42" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="714.0113,-183.7752 716.8998,-184.5859 716.8998,-184.5859 716.8998,-184.5859 714.0113,-183.7752 717.6293,-181.9863 711.1229,-182.9646 716.1702,-187.1854 "
-         id="polygon42" />
-    </g>
     <!-- Comment -->
     <g
        id="node3"
-       class="node">
+       class="node"
+       transform="matrix(1.2585443,0,0,1.2585443,96.518637,225.66447)">
       <title
          id="title43">Comment</title>
       <polygon
          fill="#add8e6"
          stroke="transparent"
-         points="91.5,-363 91.5,-341 0.5,-341 0.5,-363 "
+         points="0.5,-341 0.5,-363 91.5,-363 91.5,-341 "
          id="polygon43" />
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-363 91.5,-341 0.5,-341 0.5,-363 "
+         points="0.5,-341 0.5,-363 91.5,-363 91.5,-341 "
          id="polygon44" />
       <text
          text-anchor="start"
@@ -665,7 +674,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-341 91.5,-319 0.5,-319 0.5,-341 "
+         points="0.5,-319 0.5,-341 91.5,-341 91.5,-319 "
          id="polygon45" />
       <text
          text-anchor="start"
@@ -688,7 +697,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-319 91.5,-297 0.5,-297 0.5,-319 "
+         points="0.5,-297 0.5,-319 91.5,-319 91.5,-297 "
          id="polygon46" />
       <text
          text-anchor="start"
@@ -701,7 +710,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-297 91.5,-275 0.5,-275 0.5,-297 "
+         points="0.5,-275 0.5,-297 91.5,-297 91.5,-275 "
          id="polygon47" />
       <text
          text-anchor="start"
@@ -714,7 +723,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-275 91.5,-253 0.5,-253 0.5,-275 "
+         points="0.5,-253 0.5,-275 91.5,-275 91.5,-253 "
          id="polygon48" />
       <text
          text-anchor="start"
@@ -727,7 +736,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-253 91.5,-231 0.5,-231 0.5,-253 "
+         points="0.5,-231 0.5,-253 91.5,-253 91.5,-231 "
          id="polygon49" />
       <text
          text-anchor="start"
@@ -751,7 +760,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-231 91.5,-209 0.5,-209 0.5,-231 "
+         points="0.5,-209 0.5,-231 91.5,-231 91.5,-209 "
          id="polygon51" />
       <text
          text-anchor="start"
@@ -775,7 +784,7 @@
       <polygon
          fill="none"
          stroke="#000000"
-         points="91.5,-209 91.5,-187 0.5,-187 0.5,-209 "
+         points="0.5,-187 0.5,-209 91.5,-209 91.5,-187 "
          id="polygon53" />
       <text
          text-anchor="start"
@@ -798,89 +807,14 @@
          id="text55">: NUMBER</text>
     </g>
     <!-- Comment&#45;&gt;User -->
-    <g
-       id="edge6"
-       class="edge">
-      <title
-         id="title55">Comment-&gt;User</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 97.461,-275 c 91.2904,0 279.2094,0 368.2249,0"
-         id="path55" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="94.3236,-275 91.3236,-275 91.3236,-275 91.3236,-275 94.3236,-275 91.3236,-277.7 97.3236,-275.0001 91.3237,-272.3 "
-         id="polygon55" />
-    </g>
     <!-- Comment&#45;&gt;Post -->
-    <g
-       id="edge7"
-       class="edge">
-      <title
-         id="title56">Comment-&gt;Post</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 96.2184,-239.0835 c 41.3864,29.3079 99.2484,70.2831 138.6024,98.1519"
-         id="path56" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="93.7036,-240.8644 91.2553,-242.5982 91.2553,-242.5982 91.2553,-242.5982 93.7036,-240.8644 92.8157,-244.8016 96.1519,-239.1306 89.6949,-240.3947 "
-         id="polygon56" />
-    </g>
     <!-- Comment&#45;&gt;CommentVote -->
-    <g
-       id="edge4"
-       class="edge">
-      <title
-         id="title57">Comment-&gt;CommentVote</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 91.5,-352 c 33.2801,-45.9951 84.9114,-102.3728 143.5,-128 161.1391,-70.4837 367.8469,31.1277 466.7484,90.4181"
-         id="path57"
-         sodipodi:nodetypes="csc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="704.3842,-387.9913 706.9528,-386.4412 706.9528,-386.4412 706.9528,-386.4412 704.3842,-387.9913 705.5577,-384.1295 701.8157,-389.5414 708.3478,-388.7529 "
-         id="polygon58" />
-    </g>
-    <g
-       id="edge4-6"
-       class="edge"
-       transform="translate(1.5,150)">
-      <title
-         id="title57-7">Comment-&gt;CommentVote</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 94.5976,-354.7114 c 44.04795,6.64146 76.16297,19.8114 63.31045,64.08583 C 125.93879,-180.49771 16.790003,-265.82 26.807288,-336.5"
-         id="path57-5"
-         sodipodi:nodetypes="csc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="91.0207,-349.7158 92.7672,-352.155 88.8254,-351.2877 94.5137,-354.5942 93.216,-348.1439 92.7672,-352.155 "
-         id="polygon57-3"
-         transform="rotate(49.967194,94.681412,-354.56277)" />
-    </g>
     <!-- Log -->
     <g
        id="node6"
        class="node"
-       inkscape:label="node6">
+       inkscape:label="node6"
+       transform="matrix(1.2585443,0,0,1.2585443,-84.711742,49.064515)">
       <title
          id="title58">Log</title>
       <polygon
@@ -990,24 +924,60 @@
          id="text67">: NUMBER</text>
     </g>
     <!-- Log&#45;&gt;User -->
-    <g
-       id="edge8"
-       class="edge"
-       inkscape:label="edge8">
-      <title
-         id="title67">Log-&gt;User</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.75"
-         d="m 326.6053,-371.3358 c 40.6497,20.8415 98.6015,50.5541 139.3697,71.4565"
-         id="path67" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         stroke-width="0.75"
-         points="323.9074,-372.7191 321.2378,-374.0878 321.2378,-374.0878 321.2378,-374.0878 323.9074,-372.7191 322.4697,-376.4904 326.577,-371.3503 320.0059,-371.6852 "
-         id="polygon67" />
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.632681;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="m 319.91025,-380.09909 66.36664,-26.42943"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="M 9.0406728,-63.232983 C -9.5566518,-84.231334 -22.060303,-110.56476 -26.578157,-138.24833 c -4.517855,-27.68357 -1.035002,-56.62593 9.921512,-82.44736 6.29569,-14.83717 15.0111653,-28.6444 25.6973178,-40.7102"
+       id="path3"
+       inkscape:path-effect="#path-effect4"
+       inkscape:original-d="M 9.0406728,-63.232983 C -3.6139611,-97.2722 -35.224472,-250.5783 -16.656645,-220.69569 c 25.697318,41.35664 13.0426839,-7.88347 25.6973178,-40.7102"
+       sodipodi:nodetypes="csc"
+       transform="matrix(0.84345795,0,0,0.84345795,89.522482,30.829727)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="m 35.605092,-293.29713 c -13.484088,5.16416 -25.011161,15.27285 -31.8915268,27.96733 -6.880366,12.69447 -9.0576436,27.87072 -6.0237935,41.98755 2.21109171,10.28845 7.1328023,19.98177 14.1344533,27.83785 7.00165,7.85608 16.066871,13.85655 26.034024,17.23249 9.967153,3.37593 20.812935,4.11945 31.147543,2.13527 10.334609,-1.98418 20.133881,-6.69141 28.142116,-13.51851"
+       id="path9"
+       inkscape:path-effect="#path-effect9"
+       inkscape:original-d="m 35.605092,-293.29713 c -12.626417,21.60519 -25.288903,45.8702 -37.9153203,69.95488 -12.6264177,24.08469 66.3174463,22.39796 99.4581363,33.6871" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="m 168.704,-323.4646 c 22.91033,13.65227 49.55548,20.96466 76.22504,20.9189 26.66956,-0.0458 53.28946,-7.44954 76.1528,-21.18035 30.78736,-18.48966 54.44487,-48.53642 65.19505,-82.80247"
+       id="path10"
+       inkscape:path-effect="#path-effect10"
+       inkscape:original-d="m 168.704,-323.4646 c 49.60356,0.60381 101.82252,-0.86525 152.37784,-0.26145 50.55532,0.6038 42.90882,-54.5107 65.19505,-82.80247" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="M 212.72155,-84.660436 386.27689,-406.52852"
+       id="path11"
+       inkscape:path-effect="#path-effect11"
+       inkscape:original-d="M 212.72155,-84.660436 C 269.87593,-188.11168 328.07641,-297.3201 386.27689,-406.52852" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="m 210.44953,-52.137607 c 86.78674,3.113015 174.14222,-10.467446 255.88788,-39.780852 75.80489,-27.183091 146.74986,-67.857861 208.50703,-119.543001"
+       id="path12"
+       inkscape:path-effect="#path-effect12"
+       inkscape:original-d="m 210.44953,-52.137607 c 84.91569,-12.711896 172.1981,-26.146621 255.88788,-39.780852 83.68978,-13.634231 137.80714,-79.761831 208.50703,-119.543001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="m 784.32051,-320.20016 c 10.93493,2.83123 20.96704,9.05154 28.36489,17.58737 7.39785,8.53583 12.12932,19.35011 13.3778,30.57641 1.47734,13.28414 -1.98492,27.06078 -9.56705,38.06815 -7.58212,11.00737 -19.22003,19.15244 -32.15832,22.50677"
+       id="path13"
+       inkscape:path-effect="#path-effect14"
+       inkscape:original-d="m 784.32051,-320.20016 c 14.13068,14.42163 26.93901,31.72895 41.74269,48.16378 14.80376,16.43482 -27.15182,40.09245 -41.72537,60.57492" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="M 679.33082,-350.2746 508.35568,-406.52852"
+       id="path14"
+       inkscape:path-effect="#path-effect15"
+       inkscape:original-d="m 679.33082,-350.2746 c -58.76477,-18.50246 -114.86995,-37.37819 -170.97514,-56.25392" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750104;stroke-opacity:1;marker-start:url(#DartArrow)"
+       d="M 675.51744,9.1409601 C 658.64103,-71.497631 633.94953,-150.49869 601.90138,-226.39541 c -26.34686,-62.39487 -57.65997,-122.69191 -93.5457,-180.13311"
+       id="path15"
+       inkscape:path-effect="#path-effect16"
+       inkscape:original-d="M 675.51744,9.1409601 C 650.54089,-68.197165 626.20495,-148.15591 601.90138,-226.39541 c -24.30355,-78.23951 -62.353,-119.51566 -93.5457,-180.13311" />
   </g>
 </svg>
